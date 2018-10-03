@@ -1,0 +1,18 @@
+2018-10-02 13:37:57 INFO  Log:21 - I am in onStart method Navigation Test
+2018-10-02 13:37:57 INFO  Log:21 - I am in onStart method [ResultMap map={}]
+2018-10-02 13:37:57 INFO  Log:21 - I am in onStart method Navigation Test
+2018-10-02 13:37:57 INFO  Log:21 - I am in onStart method [ResultMap map={}]
+2018-10-02 13:37:57 INFO  Log:11 - Test is Starting...
+2018-10-02 13:38:02 INFO  Log:21 - I am in onTestStart method verify_GlobalFooterMethod start
+2018-10-02 13:38:02 INFO  Log:21 - I am in onTestStart method verify_GlobalFooterMethod start
+2018-10-02 13:38:02 INFO  Log:21 - verify_GlobalFooterMethod test is starting.
+2018-10-02 13:38:25 INFO  Log:21 - I am in onTestSuccess method verify_GlobalFooterMethod succeed
+2018-10-02 13:38:26 INFO  Log:21 - I am in onTestSuccess method verify_GlobalFooterMethod succeed
+2018-10-02 13:38:26 INFO  Log:21 - I am in onTestStart method verify_GlobalHeaderMethod start
+2018-10-02 13:38:26 INFO  Log:21 - I am in onTestStart method verify_GlobalHeaderMethod start
+2018-10-02 13:38:26 INFO  Log:21 - verify_GlobalHeaderMethod test is starting.
+2018-10-02 13:38:46 INFO  Log:21 - I am in onTestSuccess method verify_GlobalHeaderMethod succeed
+2018-10-02 13:38:46 INFO  Log:21 - I am in onTestSuccess method verify_GlobalHeaderMethod succeed
+2018-10-02 13:38:46 INFO  Log:16 - Test is Ending...
+2018-10-02 13:38:46 INFO  Log:21 - I am in onFinish method Navigation Test
+2018-10-02 13:38:47 INFO  Log:21 - I am in onFinish method Navigation Test

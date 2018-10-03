@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Corteva Regression Test Suite" duration-ms="49787" started-at="2018-10-02T18:37:57Z" finished-at="2018-10-02T18:38:46Z">
+    <groups>
+    </groups>
+    <test name="Navigation Test" duration-ms="49787" started-at="2018-10-02T18:37:57Z" finished-at="2018-10-02T18:38:46Z">
+      <class name="tests.VerifyGlobal">
+        <test-method status="PASS" signature="LoadConfig()[pri:0, instance:tests.VerifyGlobal@46ab18da]" name="LoadConfig" is-config="true" duration-ms="30" started-at="2018-10-02T18:37:57Z" description="Config Level Setup!" finished-at="2018-10-02T18:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadConfig -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.VerifyGlobal@46ab18da]" name="setup" is-config="true" duration-ms="4915" started-at="2018-10-02T18:37:57Z" description="Class Level Device Setup!" finished-at="2018-10-02T18:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_GlobalFooterMethod(java.lang.reflect.Method)[pri:0, instance:tests.VerifyGlobal@46ab18da]" name="verify_GlobalFooterMethod" duration-ms="23880" started-at="2018-10-02T18:38:02Z" description="Verify Global Footer" finished-at="2018-10-02T18:38:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.VerifyGlobal.verify_GlobalFooterMethod(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_GlobalFooterMethod -->
+        <test-method status="PASS" signature="verify_GlobalHeaderMethod(java.lang.reflect.Method)[pri:0, instance:tests.VerifyGlobal@46ab18da]" name="verify_GlobalHeaderMethod" duration-ms="20144" started-at="2018-10-02T18:38:26Z" description="Verify Global Header" finished-at="2018-10-02T18:38:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.VerifyGlobal.verify_GlobalHeaderMethod(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_GlobalHeaderMethod -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.VerifyGlobal@46ab18da]" name="teardown" is-config="true" duration-ms="696" started-at="2018-10-02T18:38:46Z" description="Class Level Teardown!" finished-at="2018-10-02T18:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.VerifyGlobal -->
+    </test> <!-- Navigation Test -->
+  </suite> <!-- Corteva Regression Test Suite -->
+</testng-results>
